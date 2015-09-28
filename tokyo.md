@@ -38,12 +38,12 @@
 
 ## 肉
 
-- [ ] [まるい - 押上](http://tabelog.com/tokyo/A1312/A131203/13002960/)
+- [x] [まるい - 押上](http://tabelog.com/tokyo/A1312/A131203/13002960/)
 - [ ] [鳥栄 - 湯島](http://tabelog.com/tokyo/A1311/A131101/13003595/)
 - [ ] [肉山 - 吉祥寺](http://tabelog.com/tokyo/A1320/A132001/13155313/)
 - [ ] [鳥しき - 目黒](http://tabelog.com/tokyo/A1316/A131601/13041029/)
 - [ ] [鳥茂 - 新宿](http://tabelog.com/tokyo/A1304/A130401/13001067/)
-- [ ] [秋元屋 - 野方](http://tabelog.com/tokyo/A1321/A132104/13006667/)
+- [x] [秋元屋 - 野方](http://tabelog.com/tokyo/A1321/A132104/13006667/)
 - [ ] [埼玉屋 - 東十条](http://tabelog.com/tokyo/A1323/A132304/13003792/)
 - [ ] [中目黒 いぐち - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13144198/)
 - [x] [焼鳥スエヒロガリ - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13180172/)
@@ -52,7 +52,7 @@
 
 ## 日本酒
 - [ ] [つくしのこ - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13019231/)
-- [ ] [天★ - 東高円寺](http://tabelog.com/tokyo/A1319/A131904/13043236/)
+- [x] [天★ - 東高円寺](http://tabelog.com/tokyo/A1319/A131904/13043236/)
 - [ ] [かんだ光壽 - 神田](http://tabelog.com/tokyo/A1310/A131002/13011272/)
 - [ ] [稲水器　あまてらす - 池袋](http://tabelog.com/tokyo/A1305/A130501/13131190/)
 - [ ] [産直屋 たか - 神泉](http://tabelog.com/tokyo/A1303/A130301/13008327/)
