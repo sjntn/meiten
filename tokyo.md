@@ -49,6 +49,8 @@
 - [x] [焼鳥スエヒロガリ - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13180172/)
 - [ ] [鳥田むら本店 - 新宿三丁目](http://tabelog.com/tokyo/A1304/A130401/13000965/)
 - [ ] [バード コート - 北千住](http://tabelog.com/tokyo/A1324/A132402/13003769/)
+- [ ] [よろにく](http://tabelog.com/tokyo/A1306/A130602/13042979/)
+- [ ] [黒牛屋](http://tabelog.com/tokyo/A1307/A130701/13030656/)
 
 ## 日本酒
 - [ ] [つくしのこ - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13019231/)
@@ -56,11 +58,16 @@
 - [ ] [かんだ光壽 - 神田](http://tabelog.com/tokyo/A1310/A131002/13011272/)
 - [ ] [稲水器 あまてらす - 池袋](http://tabelog.com/tokyo/A1305/A130501/13131190/)
 - [ ] [産直屋 たか - 神泉](http://tabelog.com/tokyo/A1303/A130301/13008327/)
+- [ ] [甘味堂 - 広尾](http://tabelog.com/tokyo/A1307/A130703/13101263/)
+- [ ] [ぬる燗佐藤 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13144930/)
+- [ ] [酒呑 - 乃木坂](http://tabelog.com/tokyo/A1307/A130701/13001895/)
+- [ ] [右京 - 麻布十番](http://tabelog.com/tokyo/A1307/A130702/13129939/)
 
 ## 和食
 - [ ] [高太郎 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13123997/)
 - [ ] [賛否両論 - 広尾](http://tabelog.com/tokyo/A1307/A130703/13001542/)
 - [ ] [山さき - 神楽坂](http://tabelog.com/tokyo/A1309/A130905/13000458/)
+- [ ] [さかなのさけ - 六本木](http://tabelog.com/tokyo/A1307/A130701/13040077/)
 
 ## おでん
 - [x] [日本橋 お多幸本店 - 日本橋](http://tabelog.com/tokyo/A1302/A130202/13000323/)
@@ -108,6 +115,7 @@
 - [ ] [パティスリー・ラブリコチエ - 高円寺](http://tabelog.com/tokyo/A1319/A131904/13100828/)
 - [ ] [ちもと - 都立大学](http://tabelog.com/tokyo/A1317/A131702/13003218/)
 - [ ] [越後屋若狭 - 浜町](http://tabelog.com/tokyo/A1312/A131201/13046248/)
+- [ ] [志”満ん草餅 - 東向島](http://tabelog.com/tokyo/A1312/A131203/13002934/)
 
 ## その他（Others）
 - [ ] [かねます - 勝どき](http://tabelog.com/tokyo/A1313/A131302/13002243/)
