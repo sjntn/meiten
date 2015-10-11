@@ -95,6 +95,20 @@
 - [ ] [フグレントウキョウ - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13141002/)
 - [ ] [WOODBERRY COFFEE ROASTERS - 用賀](http://tabelog.com/tokyo/A1317/A131707/13142745/)
 
+## デザート
+- [x] [パティスリー・ カー・ヴァンソン - 神楽坂](http://tabelog.com/tokyo/A1309/A130905/13035194/)
+- [x] [アトリエコータ - 神楽坂](http://tabelog.com/tokyo/A1309/A130905/13136823/)
+- [x] [リベルターブル 渋谷ヒカリエShinQs店 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13173629/)
+- [x] [群林堂 - 護国寺](http://tabelog.com/tokyo/A1323/A132302/13003816/)
+- [x] [瑞穂 - 明治神宮前](http://tabelog.com/tokyo/A1306/A130601/13001154/)
+- [ ] [ケンズカフェ東京 - 新宿御苑前](http://tabelog.com/tokyo/A1304/A130402/13024643/)
+- [ ] [東京洋菓子倶楽部 - 浜町](http://tabelog.com/tokyo/A1302/A130204/13003734/)
+- [ ] [Ryoco - 高輪台](http://tabelog.com/tokyo/A1316/A131603/13137010/)
+- [ ] [アテスウェイ - 西荻窪](http://tabelog.com/tokyo/A1320/A132001/13005853/)
+- [ ] [パティスリー・ラブリコチエ - 高円寺](http://tabelog.com/tokyo/A1319/A131904/13100828/)
+- [ ] [ちもと - 都立大学](http://tabelog.com/tokyo/A1317/A131702/13003218/)
+- [ ] [越後屋若狭 - 浜町](http://tabelog.com/tokyo/A1312/A131201/13046248/)
+
 ## その他（Others）
 - [ ] [かねます - 勝どき](http://tabelog.com/tokyo/A1313/A131302/13002243/)
 - [ ] [豊田屋 - 平井](http://tabelog.com/tokyo/A1312/A131202/13084796/)
