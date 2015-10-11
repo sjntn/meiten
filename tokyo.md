@@ -14,7 +14,7 @@
 - [ ] [日本橋橘町 都寿司 - 馬喰横山](http://tabelog.com/tokyo/A1302/A130204/13018162/)
 - [ ] [すきばやし 次郎 - 銀座](http://tabelog.com/tokyo/A1301/A130101/13002260/)
 - [ ] [匠 進吾 - 青山一丁目](http://tabelog.com/tokyo/A1306/A130603/13155925/)
-- [ ] [すし通 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13061640/)
+- [x] [すし通 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13061640/)
 - [ ] [鮨 尚充 - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13128483/)
 - [ ] [鮨たなか - 西荻窪](http://tabelog.com/tokyo/A1319/A131907/13000723/)
 
@@ -54,7 +54,7 @@
 - [ ] [つくしのこ - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13019231/)
 - [x] [天★ - 東高円寺](http://tabelog.com/tokyo/A1319/A131904/13043236/)
 - [ ] [かんだ光壽 - 神田](http://tabelog.com/tokyo/A1310/A131002/13011272/)
-- [ ] [稲水器　あまてらす - 池袋](http://tabelog.com/tokyo/A1305/A130501/13131190/)
+- [ ] [稲水器 あまてらす - 池袋](http://tabelog.com/tokyo/A1305/A130501/13131190/)
 - [ ] [産直屋 たか - 神泉](http://tabelog.com/tokyo/A1303/A130301/13008327/)
 
 ## 和食
@@ -68,12 +68,13 @@
 - [ ] [なだ一 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13108625/)
 - [ ] [おかめ - 東北沢](http://tabelog.com/tokyo/A1318/A131811/13001829/)
 - [ ] [恵さき - 神楽坂](http://tabelog.com/tokyo/A1309/A130905/13055543/)
+- [x] [善知鳥 - 西荻窪](http://tabelog.com/tokyo/A1319/A131907/13179470/)
 
 ## 中華
 - [ ] [MASA&rsquo;S KITCHEN47 - 恵比寿](http://tabelog.com/tokyo/A1303/A130302/13054526/)
 - [x] [餃子館 - 八幡山](http://tabelog.com/tokyo/A1318/A131809/13108385/)
 - [ ] [兆徳 - 本駒込](http://tabelog.com/tokyo/A1323/A132301/13051394/)
-- [ ] [上海小吃 - 新宿](http://tabelog.com/tokyo/A1304/A130401/13000235/)
+- [x] [上海小吃 - 新宿](http://tabelog.com/tokyo/A1304/A130401/13000235/)
 - [ ] [チャイニーズレストラン わさ - 都立大学](http://tabelog.com/tokyo/A1317/A131702/13091042/)
 - [ ] [東亜飯店 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13050855/)
 
