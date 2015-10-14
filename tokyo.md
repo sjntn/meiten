@@ -35,10 +35,6 @@
 - [ ] [たんたん亭 本店 - 浜田山](http://tabelog.com/tokyo/A1318/A131805/13000705/)
 - [ ] [三藤 - 緑が丘](http://tabelog.com/tokyo/A1317/A131711/13168430/)
 - [ ] [桑ばら - 池袋](http://tabelog.com/tokyo/A1305/A130501/13022925/)
-- [ ] [和正 - 三軒茶屋](http://tabelog.com/tokyo/A1317/A131706/13050021/)
-- [ ] [和利道 - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13096566/)
-- [ ] [八雲 - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13005154/)
-
 
 ## 肉
 
