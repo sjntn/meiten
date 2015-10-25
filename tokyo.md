@@ -8,7 +8,7 @@
 - [ ] [弁天山美家古寿司 - 浅草](http://tabelog.com/tokyo/A1311/A131102/13003694/)
 - [x] [匠 村瀬 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13174475/)
 - [ ] [鮨 なんば - 阿佐ヶ谷](http://tabelog.com/tokyo/A1319/A131905/13127515/")
-- [ ] [くろ崎 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13178821/)
+- [x] [くろ崎 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13178821/)
 - [ ] [はしぐち - 赤坂見附](http://tabelog.com/tokyo/A1308/A130801/13134517/)
 - [x] [すし匠 - 四ツ谷](http://tabelog.com/tokyo/A1309/A130902/13000852/)
 - [ ] [日本橋橘町 都寿司 - 馬喰横山](http://tabelog.com/tokyo/A1302/A130204/13018162/)
@@ -62,6 +62,7 @@
 - [ ] [ぬる燗佐藤 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13144930/)
 - [ ] [酒呑 - 乃木坂](http://tabelog.com/tokyo/A1307/A130701/13001895/)
 - [ ] [右京 - 麻布十番](http://tabelog.com/tokyo/A1307/A130702/13129939/)
+- [ ] [真菜板 - 下落合](http://tabelog.com/tokyo/A1305/A130503/13001007)
 
 ## 和食
 - [ ] [高太郎 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13123997/)
