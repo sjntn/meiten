@@ -77,7 +77,7 @@
 - [ ] [おかめ - 東北沢](http://tabelog.com/tokyo/A1318/A131811/13001829/)
 - [ ] [恵さき - 神楽坂](http://tabelog.com/tokyo/A1309/A130905/13055543/)
 - [x] [善知鳥 - 西荻窪](http://tabelog.com/tokyo/A1319/A131907/13179470/)
-- [ ] [田のじ - 目白](http://tabelog.com/tokyo/A1305/A130502/13012452/)
+- [x] [田のじ - 目白](http://tabelog.com/tokyo/A1305/A130502/13012452/)
 
 ## 中華
 - [ ] [MASA&rsquo;S KITCHEN47 - 恵比寿](http://tabelog.com/tokyo/A1303/A130302/13054526/)
@@ -88,7 +88,7 @@
 - [ ] [東亜飯店 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13050855/)
 
 ## フレンチ
-- [ ] [La's - 表参道](http://tabelog.com/tokyo/A1306/A130602/13137097/)
+- [x] [La's - 表参道](http://tabelog.com/tokyo/A1306/A130602/13137097/)
 
 ## カレー
 - [ ] [トマト - 荻窪](http://tabelog.com/tokyo/A1319/A131906/13001113/)
