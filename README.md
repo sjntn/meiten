@@ -7,4 +7,4 @@
 
 オススメ・ここ行っとけ〜みたいな店があれば、[recommend.md](https://github.com/sjntn/meiten/blob/master/recommend.md)にPRください(◜௰◝)
 
-Please PR here([recommend.md](https://github.com/sjntn/meiten/blob/master/recommend.md)) if you tell me awesome restaurants (◜௰◝)
+Please send [recommend.md](https://github.com/sjntn/meiten/blob/master/recommend.md) PR if you tell me awesome restaurants (◜௰◝)
