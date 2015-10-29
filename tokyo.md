@@ -46,6 +46,7 @@
 - [x] [秋元屋 - 野方](http://tabelog.com/tokyo/A1321/A132104/13006667/)
 - [ ] [埼玉屋 - 東十条](http://tabelog.com/tokyo/A1323/A132304/13003792/)
 - [ ] [中目黒 いぐち - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13144198/)
+- [x] [いふう - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13018859/)
 - [x] [焼鳥スエヒロガリ - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13180172/)
 - [ ] [鳥田むら本店 - 新宿三丁目](http://tabelog.com/tokyo/A1304/A130401/13000965/)
 - [ ] [バード コート - 北千住](http://tabelog.com/tokyo/A1324/A132402/13003769/)
