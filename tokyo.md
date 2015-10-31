@@ -42,7 +42,7 @@
 - [ ] [鳥栄 - 湯島](http://tabelog.com/tokyo/A1311/A131101/13003595/)
 - [ ] [肉山 - 吉祥寺](http://tabelog.com/tokyo/A1320/A132001/13155313/)
 - [ ] [鳥しき - 目黒](http://tabelog.com/tokyo/A1316/A131601/13041029/)
-- [ ] [鳥茂 - 新宿](http://tabelog.com/tokyo/A1304/A130401/13001067/)
+- [x] [鳥茂 - 新宿](http://tabelog.com/tokyo/A1304/A130401/13001067/)
 - [x] [秋元屋 - 野方](http://tabelog.com/tokyo/A1321/A132104/13006667/)
 - [ ] [埼玉屋 - 東十条](http://tabelog.com/tokyo/A1323/A132304/13003792/)
 - [ ] [中目黒 いぐち - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13144198/)
@@ -64,9 +64,9 @@
 - [ ] [酒呑 - 乃木坂](http://tabelog.com/tokyo/A1307/A130701/13001895/)
 - [ ] [右京 - 麻布十番](http://tabelog.com/tokyo/A1307/A130702/13129939/)
 - [ ] [真菜板 - 下落合](http://tabelog.com/tokyo/A1305/A130503/13001007)
+- [ ] [高太郎 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13123997/)
 
 ## 和食
-- [ ] [高太郎 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13123997/)
 - [ ] [賛否両論 - 広尾](http://tabelog.com/tokyo/A1307/A130703/13001542/)
 - [ ] [山さき - 神楽坂](http://tabelog.com/tokyo/A1309/A130905/13000458/)
 - [ ] [さかなのさけ - 六本木](http://tabelog.com/tokyo/A1307/A130701/13040077/)
