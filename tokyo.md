@@ -15,7 +15,7 @@
 - [ ] [すきばやし 次郎 - 銀座](http://tabelog.com/tokyo/A1301/A130101/13002260/)
 - [ ] [匠 進吾 - 青山一丁目](http://tabelog.com/tokyo/A1306/A130603/13155925/)
 - [x] [すし通 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13061640/)
-- [ ] [鮨 尚充 - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13128483/)
+- [x] [鮨 尚充 - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13128483/)
 - [ ] [鮨たなか - 西荻窪](http://tabelog.com/tokyo/A1319/A131907/13000723/)
 
 ## 鰻
