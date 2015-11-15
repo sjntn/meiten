@@ -2,8 +2,7 @@
 
 行きたい・行った店（ランチ含む）
 
-## 寿司
-
+## 寿司(Sushi)
 - [ ] [鮨 水谷 - 新橋](http://tabelog.com/tokyo/A1301/A130103/13016524/)
 - [ ] [弁天山美家古寿司 - 浅草](http://tabelog.com/tokyo/A1311/A131102/13003694/)
 - [x] [匠 村瀬 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13174475/)
@@ -18,14 +17,12 @@
 - [x] [鮨 尚充 - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13128483/)
 - [ ] [鮨たなか - 西荻窪](http://tabelog.com/tokyo/A1319/A131907/13000723/)
 
-## 鰻
-
+## 鰻(Eel)
 - [ ] [かぶと - 池袋](http://tabelog.com/tokyo/A1305/A130501/13016660/)
 - [x] [愛川 - 高田馬場](http://tabelog.com/tokyo/A1305/A130503/13029734/)
 - [ ] [大和田 - 神泉](http://tabelog.com/tokyo/A1303/A130301/13007246/)
 
-## 麺
-
+## 麺(Noodle)
 - [x] [かおたんラーメンえんとつ屋 南青山店 - 乃木坂](http://tabelog.com/tokyo/A1307/A130701/13001896/)
 - [ ] [紫 くろ喜 - 浅草橋](http://tabelog.com/tokyo/A1310/A131001/13148112/)
 - [x] [じゆうさん - 東長崎](http://tabelog.com/tokyo/A1321/A132101/13025978/)
@@ -36,8 +33,7 @@
 - [ ] [三藤 - 緑が丘](http://tabelog.com/tokyo/A1317/A131711/13168430/)
 - [ ] [桑ばら - 池袋](http://tabelog.com/tokyo/A1305/A130501/13022925/)
 
-## 肉
-
+## 肉(Meat)
 - [x] [まるい - 押上](http://tabelog.com/tokyo/A1312/A131203/13002960/)
 - [ ] [鳥栄 - 湯島](http://tabelog.com/tokyo/A1311/A131101/13003595/)
 - [ ] [肉山 - 吉祥寺](http://tabelog.com/tokyo/A1320/A132001/13155313/)
@@ -53,7 +49,7 @@
 - [ ] [よろにく](http://tabelog.com/tokyo/A1306/A130602/13042979/)
 - [ ] [黒牛屋](http://tabelog.com/tokyo/A1307/A130701/13030656/)
 
-## 日本酒
+## 日本酒(Japansese Sake)
 - [ ] [つくしのこ - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13019231/)
 - [x] [天★ - 東高円寺](http://tabelog.com/tokyo/A1319/A131904/13043236/)
 - [ ] [かんだ光壽 - 神田](http://tabelog.com/tokyo/A1310/A131002/13011272/)
@@ -66,12 +62,12 @@
 - [ ] [真菜板 - 下落合](http://tabelog.com/tokyo/A1305/A130503/13001007)
 - [ ] [高太郎 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13123997/)
 
-## 和食
+## 和食(Japanese)
 - [ ] [賛否両論 - 広尾](http://tabelog.com/tokyo/A1307/A130703/13001542/)
 - [ ] [山さき - 神楽坂](http://tabelog.com/tokyo/A1309/A130905/13000458/)
 - [ ] [さかなのさけ - 六本木](http://tabelog.com/tokyo/A1307/A130701/13040077/)
 
-## おでん
+## おでん(Oden)
 - [x] [日本橋 お多幸本店 - 日本橋](http://tabelog.com/tokyo/A1302/A130202/13000323/)
 - [ ] [かめ幸 - 東銀座](http://tabelog.com/tokyo/A1301/A130101/13002319/)
 - [ ] [なだ一 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13108625/)
@@ -80,7 +76,7 @@
 - [x] [善知鳥 - 西荻窪](http://tabelog.com/tokyo/A1319/A131907/13179470/)
 - [x] [田のじ - 目白](http://tabelog.com/tokyo/A1305/A130502/13012452/)
 
-## 中華
+## 中華(Chinese)
 - [ ] [MASA&rsquo;S KITCHEN47 - 恵比寿](http://tabelog.com/tokyo/A1303/A130302/13054526/)
 - [x] [餃子館 - 八幡山](http://tabelog.com/tokyo/A1318/A131809/13108385/)
 - [ ] [兆徳 - 本駒込](http://tabelog.com/tokyo/A1323/A132301/13051394/)
@@ -88,15 +84,15 @@
 - [ ] [チャイニーズレストラン わさ - 都立大学](http://tabelog.com/tokyo/A1317/A131702/13091042/)
 - [ ] [東亜飯店 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13050855/)
 
-## フレンチ
+## フレンチ(French)
 - [x] [La's - 表参道](http://tabelog.com/tokyo/A1306/A130602/13137097/)
 
-## カレー
+## カレー(Curry)
 - [ ] [トマト - 荻窪](http://tabelog.com/tokyo/A1319/A131906/13001113/)
 - [ ] [シターラ 青山 - 表参道](http://tabelog.com/tokyo/A1306/A130602/13009705/)
 - [ ] [ムルギー - 神泉](http://tabelog.com/tokyo/A1303/A130301/13001732/)
 
-## カフェ
+## カフェ(Cafe)
 - [x] [Nui. - 蔵前](http://tabelog.com/tokyo/A1311/A131103/13146889/)
 - [x] [らんぶる - 新宿](http://tabelog.com/tokyo/A1304/A130401/13000865/)
 - [x] [パドラーズコーヒー - 幡ヶ谷](http://tabelog.com/tokyo/A1318/A131807/13181016/)
@@ -105,7 +101,7 @@
 - [ ] [フグレントウキョウ - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13141002/)
 - [ ] [WOODBERRY COFFEE ROASTERS - 用賀](http://tabelog.com/tokyo/A1317/A131707/13142745/)
 
-## デザート
+## スイーツ(Sweets)
 - [x] [パティスリー・ カー・ヴァンソン - 神楽坂](http://tabelog.com/tokyo/A1309/A130905/13035194/)
 - [x] [アトリエコータ - 神楽坂](http://tabelog.com/tokyo/A1309/A130905/13136823/)
 - [x] [リベルターブル 渋谷ヒカリエShinQs店 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13173629/)
@@ -120,7 +116,7 @@
 - [ ] [越後屋若狭 - 浜町](http://tabelog.com/tokyo/A1312/A131201/13046248/)
 - [ ] [志”満ん草餅 - 東向島](http://tabelog.com/tokyo/A1312/A131203/13002934/)
 
-## その他（Others）
+## その他(Others)
 - [ ] [かねます - 勝どき](http://tabelog.com/tokyo/A1313/A131302/13002243/)
 - [ ] [豊田屋 - 平井](http://tabelog.com/tokyo/A1312/A131202/13084796/)
 - [ ] [ここのつ - 北千住](http://tabelog.com/tokyo/A1324/A132402/13158606/)
