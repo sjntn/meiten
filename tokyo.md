@@ -60,7 +60,7 @@
 - [ ] [酒呑 - 乃木坂](http://tabelog.com/tokyo/A1307/A130701/13001895/)
 - [ ] [右京 - 麻布十番](http://tabelog.com/tokyo/A1307/A130702/13129939/)
 - [ ] [真菜板 - 下落合](http://tabelog.com/tokyo/A1305/A130503/13001007)
-- [ ] [高太郎 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13123997/)
+- [x] [高太郎 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13123997/)
 
 ## 和食(Japanese)
 - [ ] [賛否両論 - 広尾](http://tabelog.com/tokyo/A1307/A130703/13001542/)
