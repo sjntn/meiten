@@ -98,7 +98,7 @@
 - [x] [パドラーズコーヒー - 幡ヶ谷](http://tabelog.com/tokyo/A1318/A131807/13181016/)
 - [x] [オモテサンドウコーヒー - 表参道](http://tabelog.com/tokyo/A1306/A130602/13122140/)
 - [ ] [みやざわ - 新橋](http://tabelog.com/tokyo/A1301/A130103/13024142/)
-- [ ] [フグレントウキョウ - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13141002/)
+- [x] [フグレントウキョウ - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13141002/)
 - [ ] [WOODBERRY COFFEE ROASTERS - 用賀](http://tabelog.com/tokyo/A1317/A131707/13142745/)
 
 ## スイーツ(Sweets)
