@@ -100,6 +100,8 @@
 - [ ] [みやざわ - 新橋](http://tabelog.com/tokyo/A1301/A130103/13024142/)
 - [x] [フグレントウキョウ - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13141002/)
 - [ ] [WOODBERRY COFFEE ROASTERS - 用賀](http://tabelog.com/tokyo/A1317/A131707/13142745/)
+- [x] [カフェ マメヒコ - 神泉](http://tabelog.com/tokyo/A1303/A130301/13043557/)
+
 
 ## スイーツ(Sweets)
 - [x] [パティスリー・ カー・ヴァンソン - 神楽坂](http://tabelog.com/tokyo/A1309/A130905/13035194/)
