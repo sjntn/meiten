@@ -71,7 +71,7 @@
 - [x] [日本橋 お多幸本店 - 日本橋](http://tabelog.com/tokyo/A1302/A130202/13000323/)
 - [ ] [かめ幸 - 東銀座](http://tabelog.com/tokyo/A1301/A130101/13002319/)
 - [ ] [なだ一 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13108625/)
-- [ ] [おかめ - 東北沢](http://tabelog.com/tokyo/A1318/A131811/13001829/)
+- [x] [おかめ - 東北沢](http://tabelog.com/tokyo/A1318/A131811/13001829/)
 - [x] [恵さき - 神楽坂](http://tabelog.com/tokyo/A1309/A130905/13055543/)
 - [x] [善知鳥 - 西荻窪](http://tabelog.com/tokyo/A1319/A131907/13179470/)
 - [x] [田のじ - 目白](http://tabelog.com/tokyo/A1305/A130502/13012452/)
