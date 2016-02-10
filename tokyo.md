@@ -83,6 +83,7 @@
 - [x] [上海小吃 - 新宿](http://tabelog.com/tokyo/A1304/A130401/13000235/)
 - [ ] [チャイニーズレストラン わさ - 都立大学](http://tabelog.com/tokyo/A1317/A131702/13091042/)
 - [ ] [東亜飯店 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13050855/)
+- [x] [兆楽 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13018041/)
 
 ## フレンチ(French)
 - [x] [La's - 表参道](http://tabelog.com/tokyo/A1306/A130602/13137097/)
