@@ -16,6 +16,9 @@
 - [x] [すし通 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13061640/)
 - [x] [鮨 尚充 - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13128483/)
 - [ ] [鮨たなか - 西荻窪](http://tabelog.com/tokyo/A1319/A131907/13000723/)
+- [x] [鮨 銀座 おのでら - 東銀座 ](http://tabelog.com/tokyo/A1301/A130101/13153824/)
+- [ ] [鮨 太一 - 銀座](http://tabelog.com/tokyo/A1301/A130101/13060788/)
+- [ ] [さわ田 - 銀座](http://tabelog.com/tokyo/A1301/A130101/13001043/)
 
 ## 鰻(Eel)
 - [ ] [かぶと - 池袋](http://tabelog.com/tokyo/A1305/A130501/13016660/)
@@ -103,6 +106,7 @@
 - [x] [フグレントウキョウ - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13141002/)
 - [ ] [WOODBERRY COFFEE ROASTERS - 用賀](http://tabelog.com/tokyo/A1317/A131707/13142745/)
 - [x] [カフェ マメヒコ - 神泉](http://tabelog.com/tokyo/A1303/A130301/13043557/)
+- [x] [TINTO COFFEE STAND - 渋谷](http://tabelog.com/tokyo/A1317/A131701/13181457/)
 
 
 ## スイーツ(Sweets)
