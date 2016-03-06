@@ -21,7 +21,7 @@
 - [ ] [さわ田 - 銀座](http://tabelog.com/tokyo/A1301/A130101/13001043/)
 
 ## 鰻(Eel)
-- [ ] [かぶと - 池袋](http://tabelog.com/tokyo/A1305/A130501/13016660/)
+- [x] [かぶと - 池袋](http://tabelog.com/tokyo/A1305/A130501/13016660/)
 - [x] [愛川 - 高田馬場](http://tabelog.com/tokyo/A1305/A130503/13029734/)
 - [ ] [大和田 - 神泉](http://tabelog.com/tokyo/A1303/A130301/13007246/)
 
@@ -29,6 +29,7 @@
 - [x] [かおたんラーメンえんとつ屋 南青山店 - 乃木坂](http://tabelog.com/tokyo/A1307/A130701/13001896/)
 - [ ] [紫 くろ喜 - 浅草橋](http://tabelog.com/tokyo/A1310/A131001/13148112/)
 - [x] [じゆうさん - 東長崎](http://tabelog.com/tokyo/A1321/A132101/13025978/)
+- [x] [玉笑 - 明治院宮前](http://tabelog.com/tokyo/A1306/A130601/13129390/)
 - [ ] [粋な一生 - 秋葉原](http://tabelog.com/tokyo/A1310/A131001/13021102/)
 - [x] [まる田 - 牛込神楽坂](http://tabelog.com/tokyo/A1309/A130905/13160403/)
 - [ ] [鳴龍 - 新大塚](http://tabelog.com/tokyo/A1323/A132302/13141302/)
