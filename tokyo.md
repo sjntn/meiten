@@ -50,8 +50,8 @@
 - [x] [焼鳥スエヒロガリ - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13180172/)
 - [ ] [鳥田むら本店 - 新宿三丁目](http://tabelog.com/tokyo/A1304/A130401/13000965/)
 - [ ] [バード コート - 北千住](http://tabelog.com/tokyo/A1324/A132402/13003769/)
-- [ ] [よろにく](http://tabelog.com/tokyo/A1306/A130602/13042979/)
-- [ ] [黒牛屋](http://tabelog.com/tokyo/A1307/A130701/13030656/)
+- [ ] [よろにく - 表参道](http://tabelog.com/tokyo/A1306/A130602/13042979/)
+- [ ] [黒牛屋 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13030656/)
 
 ## 日本酒(Japansese Sake)
 - [ ] [つくしのこ - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13019231/)
