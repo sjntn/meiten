@@ -45,7 +45,7 @@
 - [x] [鳥茂 - 新宿](http://tabelog.com/tokyo/A1304/A130401/13001067/)
 - [x] [秋元屋 - 野方](http://tabelog.com/tokyo/A1321/A132104/13006667/)
 - [ ] [埼玉屋 - 東十条](http://tabelog.com/tokyo/A1323/A132304/13003792/)
-- [ ] [中目黒 いぐち - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13144198/)
+- [x] [中目黒 いぐち - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13144198/)
 - [x] [いふう - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13018859/)
 - [x] [焼鳥スエヒロガリ - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13180172/)
 - [ ] [鳥田むら本店 - 新宿三丁目](http://tabelog.com/tokyo/A1304/A130401/13000965/)
@@ -89,6 +89,7 @@
 - [ ] [チャイニーズレストラン わさ - 都立大学](http://tabelog.com/tokyo/A1317/A131702/13091042/)
 - [ ] [東亜飯店 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13050855/)
 - [x] [兆楽 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13018041/)
+- [ ] [知音食堂 - 池袋](http://tabelog.com/tokyo/A1305/A130501/13009855/)
 
 ## フレンチ(French)
 - [x] [La's - 表参道](http://tabelog.com/tokyo/A1306/A130602/13137097/)
