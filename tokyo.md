@@ -58,7 +58,7 @@
 - [x] [天★ - 東高円寺](http://tabelog.com/tokyo/A1319/A131904/13043236/)
 - [ ] [かんだ光壽 - 神田](http://tabelog.com/tokyo/A1310/A131002/13011272/)
 - [ ] [稲水器 あまてらす - 池袋](http://tabelog.com/tokyo/A1305/A130501/13131190/)
-- [ ] [産直屋 たか - 神泉](http://tabelog.com/tokyo/A1303/A130301/13008327/)
+- [x] [産直屋 たか - 神泉](http://tabelog.com/tokyo/A1303/A130301/13008327/)
 - [ ] [甘味堂 - 広尾](http://tabelog.com/tokyo/A1307/A130703/13101263/)
 - [ ] [ぬる燗佐藤 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13144930/)
 - [ ] [酒呑 - 乃木坂](http://tabelog.com/tokyo/A1307/A130701/13001895/)
