@@ -52,11 +52,12 @@
 - [ ] [バード コート - 北千住](http://tabelog.com/tokyo/A1324/A132402/13003769/)
 - [ ] [よろにく - 表参道](http://tabelog.com/tokyo/A1306/A130602/13042979/)
 - [ ] [黒牛屋 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13030656/)
+- [ ] [鳥長 - 練馬](http://tabelog.com/tokyo/A1321/A132102/13058892/)
 
 ## 日本酒(Japansese Sake)
 - [ ] [つくしのこ - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13019231/)
 - [x] [天★ - 東高円寺](http://tabelog.com/tokyo/A1319/A131904/13043236/)
-- [ ] [かんだ光壽 - 神田](http://tabelog.com/tokyo/A1310/A131002/13011272/)
+- [x] [かんだ光壽 - 神田](http://tabelog.com/tokyo/A1310/A131002/13011272/)
 - [ ] [稲水器 あまてらす - 池袋](http://tabelog.com/tokyo/A1305/A130501/13131190/)
 - [x] [産直屋 たか - 神泉](http://tabelog.com/tokyo/A1303/A130301/13008327/)
 - [ ] [甘味堂 - 広尾](http://tabelog.com/tokyo/A1307/A130703/13101263/)
@@ -110,6 +111,7 @@
 - [ ] [WOODBERRY COFFEE ROASTERS - 用賀](http://tabelog.com/tokyo/A1317/A131707/13142745/)
 - [x] [カフェ マメヒコ - 神泉](http://tabelog.com/tokyo/A1303/A130301/13043557/)
 - [x] [TINTO COFFEE STAND - 渋谷](http://tabelog.com/tokyo/A1317/A131701/13181457/)
+- [ ] [茶亭 羽當 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13001169/)
 
 
 ## スイーツ(Sweets)
