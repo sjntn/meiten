@@ -4,7 +4,7 @@
 
 ## 寿司(Sushi)
 - [ ] [鮨 水谷 - 新橋](http://tabelog.com/tokyo/A1301/A130103/13016524/)
-- [ ] [弁天山美家古寿司 - 浅草](http://tabelog.com/tokyo/A1311/A131102/13003694/)
+- [x] [弁天山美家古寿司 - 浅草](http://tabelog.com/tokyo/A1311/A131102/13003694/)
 - [x] [匠 村瀬 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13174475/)
 - [ ] [鮨 なんば - 阿佐ヶ谷](http://tabelog.com/tokyo/A1319/A131905/13127515/")
 - [x] [くろ崎 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13178821/)
@@ -19,6 +19,8 @@
 - [x] [鮨 銀座 おのでら - 東銀座 ](http://tabelog.com/tokyo/A1301/A130101/13153824/)
 - [ ] [鮨 太一 - 銀座](http://tabelog.com/tokyo/A1301/A130101/13060788/)
 - [ ] [さわ田 - 銀座](http://tabelog.com/tokyo/A1301/A130101/13001043/)
+- [x] [おすし磯部 - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13193654/)
+- 
 
 ## 鰻(Eel)
 - [x] [かぶと - 池袋](http://tabelog.com/tokyo/A1305/A130501/13016660/)
@@ -95,11 +97,25 @@
 
 ## フレンチ(French)
 - [x] [La's - 表参道](http://tabelog.com/tokyo/A1306/A130602/13137097/)
+- [ ] [ユリイカ - 下北沢](http://tabelog.com/tokyo/A1318/A131802/13170916/)
+- [ ] [サーモンアンドトラウト - 世田谷代田](http://tabelog.com/tokyo/A1318/A131812/13172749/)
+- [ ] [サンフォコン - 幡ヶ谷](http://tabelog.com/tokyo/A1318/A131807/13140057/)
 
 ## カレー(Curry)
 - [ ] [トマト - 荻窪](http://tabelog.com/tokyo/A1319/A131906/13001113/)
 - [ ] [シターラ 青山 - 表参道](http://tabelog.com/tokyo/A1306/A130602/13009705/)
 - [ ] [ムルギー - 神泉](http://tabelog.com/tokyo/A1303/A130301/13001732/)
+
+## パン(Bakery)
+- [x] [365日 - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13164031/)
+- [ ] [カイソ - 世田谷代田](http://tabelog.com/tokyo/A1318/A131812/13129587/)
+- [x] [カタネベーカリー - 代々木上原](http://tabelog.com/tokyo/A1318/A131811/13020931/)
+- [x] [イエンセン - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13007309/)
+- [x] [ルヴァン 富ヶ谷店 - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13001841/)
+- [ ] [パンのペリカン - 田原町](http://tabelog.com/tokyo/A1311/A131102/13003662/)
+- [ ] [ダンディゾン - 吉祥寺](http://tabelog.com/tokyo/A1320/A132001/13005834/)
+- [ ] [藤屋製パン 淡島店 - 池ノ上](http://tabelog.com/tokyo/A1318/A131801/13056638/)
+- [ ] [モンシェール・ミホ - 東陽町](http://tabelog.com/tokyo/A1313/A131303/13024396/)
 
 ## カフェ(Cafe)
 - [x] [Nui. - 蔵前](http://tabelog.com/tokyo/A1311/A131103/13146889/)
@@ -112,7 +128,6 @@
 - [x] [カフェ マメヒコ - 神泉](http://tabelog.com/tokyo/A1303/A130301/13043557/)
 - [x] [TINTO COFFEE STAND - 渋谷](http://tabelog.com/tokyo/A1317/A131701/13181457/)
 - [ ] [茶亭 羽當 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13001169/)
-
 
 ## スイーツ(Sweets)
 - [x] [パティスリー・ カー・ヴァンソン - 神楽坂](http://tabelog.com/tokyo/A1309/A130905/13035194/)
