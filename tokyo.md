@@ -20,7 +20,6 @@
 - [ ] [鮨 太一 - 銀座](http://tabelog.com/tokyo/A1301/A130101/13060788/)
 - [ ] [さわ田 - 銀座](http://tabelog.com/tokyo/A1301/A130101/13001043/)
 - [x] [おすし磯部 - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13193654/)
-- 
 
 ## 鰻(Eel)
 - [x] [かぶと - 池袋](http://tabelog.com/tokyo/A1305/A130501/13016660/)
