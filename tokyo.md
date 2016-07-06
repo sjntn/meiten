@@ -103,7 +103,7 @@
 ## カレー(Curry)
 - [ ] [トマト - 荻窪](http://tabelog.com/tokyo/A1319/A131906/13001113/)
 - [ ] [シターラ 青山 - 表参道](http://tabelog.com/tokyo/A1306/A130602/13009705/)
-- [ ] [ムルギー - 神泉](http://tabelog.com/tokyo/A1303/A130301/13001732/)
+- [x] [ムルギー - 神泉](http://tabelog.com/tokyo/A1303/A130301/13001732/)
 
 ## パン(Bakery)
 - [x] [365日 - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13164031/)
