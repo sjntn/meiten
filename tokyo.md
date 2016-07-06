@@ -6,7 +6,7 @@
 - [ ] [鮨 水谷 - 新橋](http://tabelog.com/tokyo/A1301/A130103/13016524/)
 - [x] [弁天山美家古寿司 - 浅草](http://tabelog.com/tokyo/A1311/A131102/13003694/)
 - [x] [匠 村瀬 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13174475/)
-- [ ] [鮨 なんば - 阿佐ヶ谷](http://tabelog.com/tokyo/A1319/A131905/13127515/")
+- [ ] [鮨 なんば - 阿佐ヶ谷](http://tabelog.com/tokyo/A1319/A131905/13127515/)
 - [x] [くろ崎 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13178821/)
 - [ ] [はしぐち - 赤坂見附](http://tabelog.com/tokyo/A1308/A130801/13134517/)
 - [x] [すし匠 - 四ツ谷](http://tabelog.com/tokyo/A1309/A130902/13000852/)
