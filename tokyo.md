@@ -152,4 +152,4 @@
 - [ ] [豊田屋 - 平井](http://tabelog.com/tokyo/A1312/A131202/13084796/)
 - [ ] [ここのつ - 北千住](http://tabelog.com/tokyo/A1324/A132402/13158606/)
 - [x] [四文屋 高円寺北店 - 高円寺](http://tabelog.com/tokyo/A1319/A131904/13057445/)
-- [ ] [三田ばさら - 三田](http://tabelog.com/tokyo/A1314/A131402/13094054/)
+- [x] [三田ばさら - 三田](http://tabelog.com/tokyo/A1314/A131402/13094054/)
