@@ -56,6 +56,7 @@
 - [ ] [鳥長 - 練馬](http://tabelog.com/tokyo/A1321/A132102/13058892/)
 - [ ] [代官山 焼肉かねこ - 代官山](http://tabelog.com/tokyo/A1303/A130303/13178613/)
 - [ ] [SATOブリアン にごう - 阿佐ヶ谷](http://tabelog.com/tokyo/A1319/A131905/13159782/)
+- [ ] [焼肉ヒロミヤ - 曙橋](http://tabelog.com/tokyo/A1309/A130903/13177366/)
 
 ## 日本酒(Japansese Sake)
 - [ ] [つくしのこ - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13019231/)
