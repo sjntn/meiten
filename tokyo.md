@@ -55,7 +55,7 @@
 - [ ] [よろにく - 表参道](http://tabelog.com/tokyo/A1306/A130602/13042979/)
 - [ ] [黒牛屋 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13030656/)
 - [ ] [鳥長 - 練馬](http://tabelog.com/tokyo/A1321/A132102/13058892/)
-- [ ] [代官山 焼肉かねこ - 代官山](http://tabelog.com/tokyo/A1303/A130303/13178613/)
+- [x] [代官山 焼肉かねこ - 代官山](http://tabelog.com/tokyo/A1303/A130303/13178613/)
 - [ ] [SATOブリアン にごう - 阿佐ヶ谷](http://tabelog.com/tokyo/A1319/A131905/13159782/)
 - [ ] [焼肉ヒロミヤ - 曙橋](http://tabelog.com/tokyo/A1309/A130903/13177366/)
 
@@ -153,3 +153,4 @@
 - [ ] [ここのつ - 北千住](http://tabelog.com/tokyo/A1324/A132402/13158606/)
 - [x] [四文屋 高円寺北店 - 高円寺](http://tabelog.com/tokyo/A1319/A131904/13057445/)
 - [x] [三田ばさら - 三田](http://tabelog.com/tokyo/A1314/A131402/13094054/)
+- [x] [銀座しまだ - 新橋](http://tabelog.com/tokyo/A1301/A130101/13136359/)
