@@ -89,7 +89,7 @@
 - [ ] [西尾さん - 新宿三丁目](http://tabelog.com/tokyo/A1304/A130401/13026389/)
 
 ## 中華(Chinese)
-- [ ] [MASA&rsquo;S KITCHEN47 - 恵比寿](http://tabelog.com/tokyo/A1303/A130302/13054526/)
+- [x] [MASA&rsquo;S KITCHEN47 - 恵比寿](http://tabelog.com/tokyo/A1303/A130302/13054526/)
 - [x] [餃子館 - 八幡山](http://tabelog.com/tokyo/A1318/A131809/13108385/)
 - [ ] [兆徳 - 本駒込](http://tabelog.com/tokyo/A1323/A132301/13051394/)
 - [x] [上海小吃 - 新宿](http://tabelog.com/tokyo/A1304/A130401/13000235/)
