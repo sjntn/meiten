@@ -112,7 +112,7 @@
 
 ## パン(Bakery)
 - [x] [365日 - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13164031/)
-- [ ] [カイソ - 世田谷代田](http://tabelog.com/tokyo/A1318/A131812/13129587/)
+- [x] [カイソ - 世田谷代田](http://tabelog.com/tokyo/A1318/A131812/13129587/)
 - [x] [カタネベーカリー - 代々木上原](http://tabelog.com/tokyo/A1318/A131811/13020931/)
 - [x] [イエンセン - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13007309/)
 - [x] [ルヴァン 富ヶ谷店 - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13001841/)
