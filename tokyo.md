@@ -134,7 +134,7 @@
 - [x] [TINTO COFFEE STAND - 渋谷](http://tabelog.com/tokyo/A1317/A131701/13181457/)
 - [ ] [茶亭 羽當 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13001169/)
 - [x] [factory - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13135958/)
-- [x] [tokyo kenkyo - 神泉](http://tabelog.com/tokyo/A1303/A130301/13178629/)
+- [x] [Tokyo Kenkyo - 神泉](http://tabelog.com/tokyo/A1303/A130301/13178629/)
 
 ## スイーツ(Sweets)
 - [x] [パティスリー・ カー・ヴァンソン - 神楽坂](http://tabelog.com/tokyo/A1309/A130905/13035194/)
