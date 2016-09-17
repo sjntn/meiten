@@ -9,7 +9,6 @@
 - [x] [山元麺蔵 - 東山](http://tabelog.com/kyoto/A2601/A260301/26002504/)
 - [x] [かね井 - 鞍馬口](http://tabelog.com/kyoto/A2601/A260503/26001676/)
 - [x] [御多福珈琲 - 河原町](http://tabelog.com/kyoto/A2601/A260201/26004565/)
-- [x] [枝魯枝魯ひとしな - 清水五条](http://tabelog.com/kyoto/A2601/A260201/26002260/)
 
 ## 肉(Meat)
 - [ ] [肉料理 荒川 - 河原町](http://tabelog.com/kyoto/A2601/A260201/26006491/)
