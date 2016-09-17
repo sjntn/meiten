@@ -51,3 +51,4 @@
 
 ## その他(Others)
 - [x] [いづ重 - 祇園四条](http://tabelog.com/kyoto/A2601/A260301/26002550/)
+- [ ] [くるみ - 河原町](http://tabelog.com/kyoto/A2601/A260201/26006338/)
