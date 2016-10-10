@@ -121,6 +121,7 @@
 - [x] [藤屋製パン 淡島店 - 池ノ上](http://tabelog.com/tokyo/A1318/A131801/13056638/)
 - [ ] [モンシェール・ミホ - 東陽町](http://tabelog.com/tokyo/A1313/A131303/13024396/)
 - [x] [タルイベーカリー - 参宮橋](http://tabelog.com/tokyo/A1318/A131810/13140777/)
+- [ ] [VIRON 渋谷店 - 神泉](https://tabelog.com/tokyo/A1303/A130301/13004626/)
 
 ## カフェ(Cafe)
 - [x] [Nui. - 蔵前](http://tabelog.com/tokyo/A1311/A131103/13146889/)
