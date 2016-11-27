@@ -38,6 +38,7 @@
 - [ ] [たんたん亭 本店 - 浜田山](http://tabelog.com/tokyo/A1318/A131805/13000705/)
 - [ ] [三藤 - 緑が丘](http://tabelog.com/tokyo/A1317/A131711/13168430/)
 - [ ] [桑ばら - 池袋](http://tabelog.com/tokyo/A1305/A130501/13022925/)
+- [x] [与ろゐ屋 - 浅草](https://tabelog.com/tokyo/A1311/A131102/13003715/)
 
 ## 肉(Meat)
 - [x] [まるい - 押上](http://tabelog.com/tokyo/A1312/A131203/13002960/)
@@ -58,6 +59,8 @@
 - [x] [代官山 焼肉かねこ - 代官山](http://tabelog.com/tokyo/A1303/A130303/13178613/)
 - [ ] [SATOブリアン にごう - 阿佐ヶ谷](http://tabelog.com/tokyo/A1319/A131905/13159782/)
 - [ ] [焼肉ヒロミヤ - 曙橋](http://tabelog.com/tokyo/A1309/A130903/13177366/)
+- [ ] [Cossott'e - 駒澤大学](https://tabelog.com/tokyo/A1317/A131707/13098137/)
+- [ ] [Steak Dining Vitis - 中目黒](https://tabelog.com/tokyo/A1317/A131701/13173227/)
 
 ## 日本酒(Japansese Sake)
 - [ ] [つくしのこ - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13019231/)
@@ -95,15 +98,22 @@
 - [ ] [兆徳 - 本駒込](http://tabelog.com/tokyo/A1323/A132301/13051394/)
 - [x] [上海小吃 - 新宿](http://tabelog.com/tokyo/A1304/A130401/13000235/)
 - [ ] [チャイニーズレストラン わさ - 都立大学](http://tabelog.com/tokyo/A1317/A131702/13091042/)
-- [ ] [東亜飯店 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13050855/)
+- [x] [東亜飯店 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13050855/)
 - [x] [兆楽 - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13018041/)
 - [ ] [知音食堂 - 池袋](http://tabelog.com/tokyo/A1305/A130501/13009855/)
+- [ ] [エンジン - 牛込神楽坂](https://tabelog.com/tokyo/A1309/A130905/13178164/)
+- [ ] [中華香彩JASMINE - 広尾](https://tabelog.com/tokyo/A1303/A130302/13123634/)
 
 ## フレンチ(French)
 - [x] [La's - 表参道](http://tabelog.com/tokyo/A1306/A130602/13137097/)
 - [ ] [ユリイカ - 下北沢](http://tabelog.com/tokyo/A1318/A131802/13170916/)
 - [ ] [サーモンアンドトラウト - 世田谷代田](http://tabelog.com/tokyo/A1318/A131812/13172749/)
 - [ ] [サンフォコン - 幡ヶ谷](http://tabelog.com/tokyo/A1318/A131807/13140057/)
+
+## イタリアン(Italian)
+- [ ] [メッシタ - 不動前](https://tabelog.com/tokyo/A1316/A131601/13126930/)
+- [ ] [ペペロッソ - 三軒茶屋](https://tabelog.com/tokyo/A1317/A131706/13013812/)
+
 
 ## カレー(Curry)
 - [ ] [トマト - 荻窪](http://tabelog.com/tokyo/A1319/A131906/13001113/)
