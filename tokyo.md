@@ -103,6 +103,7 @@
 - [ ] [知音食堂 - 池袋](http://tabelog.com/tokyo/A1305/A130501/13009855/)
 - [ ] [エンジン - 牛込神楽坂](https://tabelog.com/tokyo/A1309/A130905/13178164/)
 - [ ] [中華香彩JASMINE - 広尾](https://tabelog.com/tokyo/A1303/A130302/13123634/)
+- [x] [中国飯店 六本木店 - 六本木](https://tabelog.com/tokyo/A1307/A130701/13001954/)
 
 ## フレンチ(French)
 - [x] [La's - 表参道](http://tabelog.com/tokyo/A1306/A130602/13137097/)
@@ -129,7 +130,7 @@
 - [ ] [パンのペリカン - 田原町](http://tabelog.com/tokyo/A1311/A131102/13003662/)
 - [x] [ダンディゾン - 吉祥寺](http://tabelog.com/tokyo/A1320/A132001/13005834/)
 - [x] [藤屋製パン 淡島店 - 池ノ上](http://tabelog.com/tokyo/A1318/A131801/13056638/)
-- [ ] [モンシェール・ミホ - 東陽町](http://tabelog.com/tokyo/A1313/A131303/13024396/)
+- [x] [モンシェール・ミホ - 東陽町](http://tabelog.com/tokyo/A1313/A131303/13024396/)
 - [x] [タルイベーカリー - 参宮橋](http://tabelog.com/tokyo/A1318/A131810/13140777/)
 - [x] [VIRON 渋谷店 - 神泉](https://tabelog.com/tokyo/A1303/A130301/13004626/)
 
