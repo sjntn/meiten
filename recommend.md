@@ -6,6 +6,7 @@
 ### 肉
 - [黒牛屋](http://tabelog.com/tokyo/A1307/A130701/13030656/)
 - [よろにく](http://tabelog.com/tokyo/A1306/A130602/13042979/)
+- [ラム ミート テンダー](https://tabelog.com/tokyo/A1310/A131003/13185240/)
 
 ### 中華
 - [黒猫夜](http://tabelog.com/tokyo/A1307/A130701/13115202/)
