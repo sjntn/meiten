@@ -21,6 +21,7 @@
 - [ ] [さわ田 - 銀座](http://tabelog.com/tokyo/A1301/A130101/13001043/)
 - [x] [おすし磯部 - 代々木八幡](http://tabelog.com/tokyo/A1318/A131810/13193654/)
 - [x] [鮨 くりや川 - 恵比寿](http://tabelog.com/tokyo/A1303/A130302/13135152/)
+- [ ] [鮨 りんだ - 不動前](https://tabelog.com/tokyo/A1316/A131601/13168140/)
 
 ## 鰻(Eel)
 - [x] [かぶと - 池袋](http://tabelog.com/tokyo/A1305/A130501/13016660/)
@@ -104,6 +105,7 @@
 - [ ] [エンジン - 牛込神楽坂](https://tabelog.com/tokyo/A1309/A130905/13178164/)
 - [ ] [中華香彩JASMINE - 広尾](https://tabelog.com/tokyo/A1303/A130302/13123634/)
 - [x] [中国飯店 六本木店 - 六本木](https://tabelog.com/tokyo/A1307/A130701/13001954/)
+- [x] [チャイナルーム - 六本木](https://tabelog.com/tokyo/A1307/A130701/13017089/)
 
 ## フレンチ(French)
 - [x] [La's - 表参道](http://tabelog.com/tokyo/A1306/A130602/13137097/)
@@ -114,6 +116,7 @@
 ## イタリアン(Italian)
 - [ ] [メッシタ - 不動前](https://tabelog.com/tokyo/A1316/A131601/13126930/)
 - [ ] [ペペロッソ - 三軒茶屋](https://tabelog.com/tokyo/A1317/A131706/13013812/)
+- [ ] [メゼババ - 亀戸](https://tabelog.com/tokyo/A1312/A131202/13163222/)
 
 
 ## カレー(Curry)
@@ -133,6 +136,7 @@
 - [x] [モンシェール・ミホ - 東陽町](http://tabelog.com/tokyo/A1313/A131303/13024396/)
 - [x] [タルイベーカリー - 参宮橋](http://tabelog.com/tokyo/A1318/A131810/13140777/)
 - [x] [VIRON 渋谷店 - 神泉](https://tabelog.com/tokyo/A1303/A130301/13004626/)
+- [x] [パンとエスプレッソと - 表参道](https://tabelog.com/tokyo/A1306/A130602/13090477/)
 
 ## カフェ(Cafe)
 - [x] [Nui. - 蔵前](http://tabelog.com/tokyo/A1311/A131103/13146889/)
